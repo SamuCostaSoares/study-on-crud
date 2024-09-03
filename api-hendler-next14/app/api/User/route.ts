@@ -14,7 +14,7 @@ export async function POST(req: Request) {
         name,
       },
     });
-    return Response.json({ message: "ok", user });
+    return Response.json({ message: "okk", user });
   } catch (err) {
     return NextResponse.json(
       {
