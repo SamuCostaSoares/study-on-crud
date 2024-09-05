@@ -1,7 +1,5 @@
 # study-on-crud
 
-# Study on CRUD with Next.JS and Prisma
-
 This repository contains my study on implementing CRUD operations using Next.JS and Prisma. Postman was used to consume the API, and Railway was utilized to host the project, allowing developers to deploy and manage their projects without worrying about server configuration and maintenance.
 
 ## CRUD Operations and HTTP Methods
