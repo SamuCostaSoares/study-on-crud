@@ -62,7 +62,6 @@ export async function DELETE(req: Request) {
      }
 }
 
-
 export async function PUT(req: Request) {
   const { id, name } = await req.json();
   try {
